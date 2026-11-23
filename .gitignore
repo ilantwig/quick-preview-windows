@@ -1,0 +1,6 @@
+.tools/
+dist/
+*.exe
+*.pdb
+*.zip
+
