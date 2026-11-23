@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
+<title id="title">Preview files in a borderless window</title><desc id="desc">Illustration of a large PDF preview with a filename header and a document page.</desc>
+<rect width="900" height="430" rx="24" fill="#101821"/><circle cx="808" cy="67" r="104" fill="#1c3440" opacity=".45"/>
+<text x="56" y="75" fill="#8cdcb9" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">QUICK PREVIEW</text>
+<text x="56" y="132" fill="#f5f8f7" font-family="Segoe UI,Arial,sans-serif" font-size="36" font-weight="600">A closer look, instantly</text>
+<text x="56" y="177" fill="#b9c8cc" font-family="Segoe UI,Arial,sans-serif" font-size="20">A borderless window adjusts for the file you open.</text>
+<rect x="232" y="204" width="436" height="185" rx="4" fill="#272a2f" stroke="#526169"/><text x="250" y="230" fill="#f5f8f7" font-family="Segoe UI,Arial,sans-serif" font-size="16">document.pdf</text><text x="640" y="230" fill="#f5f8f7" font-family="Segoe UI,Arial,sans-serif" font-size="20">×</text>
+<rect x="240" y="242" width="420" height="139" fill="#343b40"/><rect x="349" y="250" width="202" height="131" fill="#f3f4f1"/><text x="369" y="280" fill="#263f45" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Your document</text><path d="M369 296h154 M369 308h154 M369 320h137 M369 343h154 M369 355h128" stroke="#a6b3b2" stroke-width="3"/>
+<text x="56" y="410" fill="#91a4a9" font-family="Segoe UI,Arial,sans-serif" font-size="15">Illustration · PDF appearance depends on the installed Windows preview handler</text>
+</svg>
+
