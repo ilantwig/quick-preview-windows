@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
+<title id="title">Select a file and press Space</title><desc id="desc">Illustration of a selected image in File Explorer and a Space key.</desc>
+<rect width="900" height="430" rx="24" fill="#101821"/><circle cx="808" cy="67" r="104" fill="#1c3440" opacity=".45"/>
+<text x="56" y="75" fill="#8cdcb9" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">QUICK PREVIEW</text>
+<text x="56" y="132" fill="#f5f8f7" font-family="Segoe UI,Arial,sans-serif" font-size="36" font-weight="600">Select a file. Press Space.</text>
+<text x="56" y="177" fill="#b9c8cc" font-family="Segoe UI,Arial,sans-serif" font-size="20">Open a quick preview straight from File Explorer.</text>
+<rect x="56" y="212" width="788" height="163" rx="14" fill="#202b34" stroke="#40505a"/>
+<text x="85" y="251" fill="#92a5aa" font-family="Segoe UI,Arial,sans-serif" font-size="17">Name</text><rect x="78" y="269" width="485" height="46" rx="7" fill="#365564"/><rect x="94" y="280" width="22" height="23" rx="2" fill="#a3c3d0"/><text x="129" y="299" fill="#f6f8f8" font-family="Segoe UI,Arial,sans-serif" font-size="20">landscape.png</text>
+<rect x="648" y="263" width="156" height="58" rx="9" fill="#33434c" stroke="#70828b"/><text x="726" y="300" text-anchor="middle" fill="#f5f8f7" font-family="Segoe UI,Arial,sans-serif" font-size="20">Space</text>
+<text x="56" y="405" fill="#91a4a9" font-family="Segoe UI,Arial,sans-serif" font-size="15">Illustration · Quick Preview runs in the notification area</text>
+</svg>
+
