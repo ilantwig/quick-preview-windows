@@ -4,6 +4,16 @@ A small native Win32 tray application inspired by Quick Look on macOS. Select a 
 
 Quick Preview is written in C++ and does not require .NET. Images and text files have built-in previews. PDF and other formats use preview handlers installed on Windows; availability and rendering depend on the installed handler. Folio may be used when it provides a registered Windows PDF preview handler.
 
+## At a glance
+
+These illustrations show how Quick Preview works in File Explorer. PDF appearance depends on the Windows preview handler installed on your computer.
+
+![Select a file in File Explorer and press Space](docs/images/open-preview.svg)
+
+![A borderless preview window showing a PDF](docs/images/preview-window.svg)
+
+![Use the arrow keys to browse and Escape to close](docs/images/keyboard-navigation.svg)
+
 ## Download
 
 Download [QuickPreview-Windows-x64.zip](https://github.com/ilantwig/quick-preview-windows/releases/latest), extract it, and run QuickPreview.exe. Windows 10 or 11 x64 is required.
@@ -30,5 +40,6 @@ The setup script downloads a pinned LLVM-MinGW release and verifies its SHA-256 
 MIT. See [LICENSE.txt](LICENSE.txt).
 
 This is an unsigned build, so Windows may show an unknown publisher prompt. PDF rendering depends on the registered Windows preview handler; installing a PDF reader does not necessarily install one. See [third-party notices](THIRD_PARTY_NOTICES.md) for toolchain licenses.
+
 
 
